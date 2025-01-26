@@ -14,3 +14,9 @@ INCOME_AMT—Income classification
 SPECIAL_CONSIDERATIONS—Special considerations for application
 ASK_AMT—Funding amount requested
 IS_SUCCESSFUL—Was the money used effectively
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+In this challenge, I took my report writed in english (and some parts in polish), and results from task that I received and ask chat gpt to rewrite it for me with better english leanguage but with respect to values I recieved.  
